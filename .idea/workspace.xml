@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c90bd9ad-cd41-4d78-852e-b42a1bd11794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/ConvenienceStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/entities/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/enums/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/CashierServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/CustomerServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/ManagerServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/implimentation/CashierServicesImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/implimentation/CustomerServicesImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/francis_store/services/implimentation/ManagersServicesImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/francis_store/services/implimentation/CashierServicesImplementationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/francis_store/services/implimentation/ManagersServicesImplementationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2UA1UiY5KvNzd1Od9Doqu5SRnqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.francis_store.module" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.francis_store.services.implimentation" />
+      <recent name="com.francis_store.module" />
+      <recent name="com.francis.testing.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ManagersServicesImplementationTest.sackCashier">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.francis_store.Main" />
+      <module name="CONVENIENCE-STORE-WEEK-1-PROJECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis_store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashierServicesImplementationTest.addCustomerCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CONVENIENCE-STORE-WEEK-1-PROJECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis_store.services.implimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis_store.services.implimentation" />
+      <option name="MAIN_CLASS_NAME" value="com.francis_store.services.implimentation.CashierServicesImplementationTest" />
+      <option name="METHOD_NAME" value="addCustomerCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagersServicesImplementationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CONVENIENCE-STORE-WEEK-1-PROJECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis_store.services.implimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis_store.services.implimentation" />
+      <option name="MAIN_CLASS_NAME" value="com.francis_store.services.implimentation.ManagersServicesImplementationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagersServicesImplementationTest.hireCashier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CONVENIENCE-STORE-WEEK-1-PROJECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis_store.services.implimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis_store.services.implimentation" />
+      <option name="MAIN_CLASS_NAME" value="com.francis_store.services.implimentation.ManagersServicesImplementationTest" />
+      <option name="METHOD_NAME" value="hireCashier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagersServicesImplementationTest.sackCashier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CONVENIENCE-STORE-WEEK-1-PROJECT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.francis_store.services.implimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.francis_store.services.implimentation" />
+      <option name="MAIN_CLASS_NAME" value="com.francis_store.services.implimentation.ManagersServicesImplementationTest" />
+      <option name="METHOD_NAME" value="sackCashier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManagersServicesImplementationTest.sackCashier" />
+        <item itemvalue="JUnit.ManagersServicesImplementationTest" />
+        <item itemvalue="JUnit.ManagersServicesImplementationTest.hireCashier" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CashierServicesImplementationTest.addCustomerCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90bd9ad-cd41-4d78-852e-b42a1bd11794" name="Changes" comment="" />
+      <created>1692367591633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692367591633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CONVENIENCE_STORE_WEEK_1_PROJECT$CashierServicesImplementationTest_addCustomerCart.ic" NAME="CashierServicesImplementationTest.addCustomerCart Coverage Results" MODIFIED="1692789907344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.francis_store.services.implimentation.*</FILTER>
+    </SUITE>
+  </component>
+</project>
