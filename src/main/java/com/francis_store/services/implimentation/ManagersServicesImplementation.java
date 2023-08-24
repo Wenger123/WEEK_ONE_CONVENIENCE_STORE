@@ -23,7 +23,6 @@ public class ManagersServicesImplementation implements ManagerServices {
             return true;
         }
         else {
-            System.out.println("This cashier has been hired");
             return false;
         }
     }
@@ -45,7 +44,6 @@ public class ManagersServicesImplementation implements ManagerServices {
                 System.out.println("Name not on our list or map");
             return true;
         }else {
-            System.out.println("This person is not part of our Staff");
             return false;
         }
     }

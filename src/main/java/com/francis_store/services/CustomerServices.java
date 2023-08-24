@@ -8,6 +8,6 @@ import java.util.List;
 
 public interface CustomerServices {
 
- public void addToCart(String prodName, int quantity);
+ public boolean addToCart(String prodName, int quantity);
  public void buyProduct(CashierServicesImplementation cashier);
 }

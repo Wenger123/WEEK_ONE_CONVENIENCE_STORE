@@ -35,4 +35,7 @@ public class Cashier extends Staff{
                 ", strike=" + strike +
                 '}';
     }
+
+    public void setStrike(int i) {
+    }
 }

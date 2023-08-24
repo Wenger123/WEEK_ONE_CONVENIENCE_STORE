@@ -59,15 +59,27 @@ public class ConvenienceStore {
     public static List<Cashier> getCashierList() {
         return cashierList;
     }
-    public List<Product> getProductList() {
+    public static List<Product> getProductList() {
         return productList;
+    }
+
+    public static void setProductList(List<Product> productList) {
+        ConvenienceStore.productList = productList;
     }
 
     public static Map<String, Cashier> getCashierMap() {
         return cashierMap;
     }
 
+    public static void setCashierMap(Map<String, Cashier> cashierMap) {
+        ConvenienceStore.cashierMap = cashierMap;
+    }
+
     public static Map<String, Product> getProductMap() {
         return productMap;
+    }
+
+    public static void setProductMap(Map<String, Product> productMap) {
+        ConvenienceStore.productMap = productMap;
     }
 }

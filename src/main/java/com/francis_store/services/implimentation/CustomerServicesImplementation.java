@@ -22,12 +22,6 @@ public class CustomerServicesImplementation implements CustomerServices {
     public Map<String, Integer> getCart() {
         return cart;
     }
-    @Override
-    public void addToCart(String prodName, int quantity) {
-        cart.put(prodName, quantity);
-        System.out.println("This product "+ "\""+prodName+"\""+" has been added to customer cart");
-    }
-
     public Customer getCustomer() {
         return customer;
     }
@@ -39,6 +33,17 @@ public class CustomerServicesImplementation implements CustomerServices {
     public void setCart(Map<String, Integer> cart) {
         this.cart = cart;
     }
+@Override
+public boolean addToCart(String prodName, int quantity) {
+    cart.put(prodName, quantity);
+    if (cart.containsKey(prodName)) {
+        System.out.println("This product " + "\"" + prodName + "\"" + " has been added to customer cart");
+        return true;
+    } else {
+        return false;
+    }
+}
+
 
     @Override
     public void buyProduct(CashierServicesImplementation cashier) {
